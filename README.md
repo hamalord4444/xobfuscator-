@@ -1,2 +1,2 @@
 # xobfuscator-
-obfuscate good support for Kali Linux and Mobile
+good obfuscate support for Mobile
